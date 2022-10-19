@@ -1,0 +1,17 @@
+D:\Demo Codes\NetCoreBaseProject\InfraStructure\bin\Debug\net6.0\InfraStructure.deps.json
+D:\Demo Codes\NetCoreBaseProject\InfraStructure\bin\Debug\net6.0\InfraStructure.dll
+D:\Demo Codes\NetCoreBaseProject\InfraStructure\bin\Debug\net6.0\InfraStructure.pdb
+D:\Demo Codes\NetCoreBaseProject\InfraStructure\obj\Debug\net6.0\InfraStructure.csproj.AssemblyReference.cache
+D:\Demo Codes\NetCoreBaseProject\InfraStructure\obj\Debug\net6.0\InfraStructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo Codes\NetCoreBaseProject\InfraStructure\obj\Debug\net6.0\InfraStructure.AssemblyInfoInputs.cache
+D:\Demo Codes\NetCoreBaseProject\InfraStructure\obj\Debug\net6.0\InfraStructure.AssemblyInfo.cs
+D:\Demo Codes\NetCoreBaseProject\InfraStructure\obj\Debug\net6.0\InfraStructure.csproj.CoreCompileInputs.cache
+D:\Demo Codes\NetCoreBaseProject\InfraStructure\obj\Debug\net6.0\InfraStructure.dll
+D:\Demo Codes\NetCoreBaseProject\InfraStructure\obj\Debug\net6.0\refint\InfraStructure.dll
+D:\Demo Codes\NetCoreBaseProject\InfraStructure\obj\Debug\net6.0\InfraStructure.pdb
+D:\Demo Codes\NetCoreBaseProject\InfraStructure\obj\Debug\net6.0\ref\InfraStructure.dll
+D:\Demo Codes\NetCoreBaseProject\InfraStructure\bin\Debug\net6.0\Helpers.dll
+D:\Demo Codes\NetCoreBaseProject\InfraStructure\bin\Debug\net6.0\Models.dll
+D:\Demo Codes\NetCoreBaseProject\InfraStructure\bin\Debug\net6.0\Helpers.pdb
+D:\Demo Codes\NetCoreBaseProject\InfraStructure\bin\Debug\net6.0\Models.pdb
+D:\Demo Codes\NetCoreBaseProject\InfraStructure\obj\Debug\net6.0\InfraStructure.csproj.CopyComplete
